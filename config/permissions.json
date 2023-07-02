@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        {
+            "user_id": "62fb30c5132e425314f6758f",
+            "username": "SpillyMilly",
+            "permissions": [
+                "talk", "move-others","move-self","player",
+                "moderate", "host","shout","play", "inspect"
+            ]
+        },
+        {
+            "user_id": "630442e30ed9c4d09fa8f29f",
+            "username": "MrLemonscented",
+            "permissions": [
+                "talk", "move-others","move-self","bet","bet-control","pp-control","player",
+                "moderate", "host","shout","play"
+            ]
+        },
+        {
+            "user_id": "62fd8abdd2042a25bac3a83d",
+            "username": "cheekychuu",
+            "permissions": [
+                "talk", "move-others","move-self","bet","bet-control","pp-control","player",
+                "moderate", "host","shout","play"
+            ]
+        }
+
+        
+    ]
+}
